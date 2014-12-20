@@ -3,3 +3,4 @@ add a common project file
 Updated with some text!
 
 Added text in submodule.
+Add text in common.
